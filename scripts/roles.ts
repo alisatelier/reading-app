@@ -11,10 +11,10 @@ export function roleFromIdKey(idKey: string): Role {
 export function roleRule(role: Role): string {
   switch (role) {
     case "past":
-      return `Past role: formative. Prefer "may have", "had to", "this formed". Keep it grounded in what shaped the present.`;
+      return `Past role: formative/backstory. Use past-tense framing ("you learned", "you faced", "you carried", "this shaped"). This is a theme that has already happened. Use past-tense. No "now it's time". Absolutely no foreshadowing or advising on the present or future.`;
     case "present":
-      return `Present role: current state. Prefer "right now", "is", "currently", "underway". Describe what is happening in the healing process now.`;
+      return `Present role: current state. Use present-tense framing ("right now", "is", "currently", "underway"). Do NOT mention any specific intention topic unless it is explicitly provided.`;
     case "future":
-      return `Future role: trajectory. Include exactly ONE sentence starting with "If". Describe what may develop in the healing process next.`;
+      return `Future role: trajectory. Use future/conditional framing. Include exactly ONE sentence starting with "If". Do NOT mention any specific intention topic unless it is explicitly provided.`;
   }
 }
