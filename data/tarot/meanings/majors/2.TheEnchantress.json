@@ -1,0 +1,34 @@
+{
+  "cardId": "2.TheEnchantress",
+  "cardName": "The Enchantress",
+  "upright": {
+    "themes": [
+      "intuition",
+      "inner knowing",
+      "stillness",
+      "mystery",
+      "listening"
+    ],
+    "core": [
+      "The answer lives underneath the noise—slow down enough to hear it.",
+      "Trust your inner knowing; it may be quiet, but it is consistent.",
+      "Let your intuition lead your next choice, then confirm it through lived experience.",
+      "You don’t need to explain your knowing to honor it."
+    ]
+  },
+  "reversed": {
+    "themes": [
+      "doubt",
+      "disconnection",
+      "outsourcing intuition",
+      "ignoring signals",
+      "mental fog"
+    ],
+    "core": [
+      "You may be second-guessing yourself or looking outside for permission to trust what you already sense.",
+      "Return to stillness: fewer inputs, more body cues, more honest silence.",
+      "Name what you already know, then take one small action that proves it to you.",
+      "If you keep overriding your signals, the confusion will deepen instead of clearing."
+    ]
+  }
+}

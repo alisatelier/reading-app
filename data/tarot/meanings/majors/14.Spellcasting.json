@@ -1,0 +1,34 @@
+{
+  "cardId": "0.TheOne",
+  "cardName": "The One",
+  "upright": {
+    "themes": [
+      "beginnings",
+      "openness",
+      "trust",
+      "fresh energy",
+      "step into the unknown"
+    ],
+    "core": [
+      "A clean start is available—your path opens when you choose it.",
+      "Curiosity is your compass; you don’t need the full plan to begin.",
+      "Say yes to the first step and let clarity arrive through movement.",
+      "Keep it simple: one honest action that matches your intention."
+    ]
+  },
+  "reversed": {
+    "themes": [
+      "hesitation",
+      "false start",
+      "avoidance",
+      "overthinking",
+      "fear of looking inexperienced"
+    ],
+    "core": [
+      "The start is here, but you may be holding back out of fear or doubt.",
+      "Over-planning is delaying the lesson; momentum is the medicine.",
+      "Choose the smallest next step and commit—don’t wait for perfect certainty.",
+      "If you keep postponing, the same question will return until you act."
+    ]
+  }
+}

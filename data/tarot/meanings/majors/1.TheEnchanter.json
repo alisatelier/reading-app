@@ -1,0 +1,34 @@
+{
+  "cardId": "1.TheEnchanter",
+  "cardName": "The Enchanter",
+  "upright": {
+    "themes": [
+      "will",
+      "skill",
+      "creation",
+      "focus",
+      "make it real"
+    ],
+    "core": [
+      "You have what you need to shape this—your power is already in your hands.",
+      "Focus turns potential into results; choose one direction and work it.",
+      "Speak your intention clearly, then back it with practical action.",
+      "Your influence grows when you act with precision instead of urgency."
+    ]
+  },
+  "reversed": {
+    "themes": [
+      "scattered energy",
+      "manipulation",
+      "shortcutting",
+      "mixed motives",
+      "performing instead of doing"
+    ],
+    "core": [
+      "Your energy may be spread too thin, or your motives may be slightly split.",
+      "Re-center on what you truly want—then remove the distractions and noise.",
+      "Don’t force outcomes through control; build trust by being consistent.",
+      "If you keep trying to “make it happen” from pressure, the results won’t hold."
+    ]
+  }
+}
